@@ -14,7 +14,7 @@ brotlipy==0.7.0
 bs4==0.0.1
 build==0.10.0
 catalogue==2.0.8
-clyent==1.2.2
+clyent==1.2.1
 cmake==3.26.3
 conda==22.11.0
 confection==0.0.4
